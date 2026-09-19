@@ -1,0 +1,12 @@
+{
+  "name": "ガソリン燃費計算",
+  "short_name": "燃費計算",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#1677ff",
+  "lang": "ja",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
